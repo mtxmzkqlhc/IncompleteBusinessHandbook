@@ -53,7 +53,7 @@
 3. WIFI连接设备数50以下可选用
  - 小米路由器
  - 极路由3
-4.WIFI连接设备数50以上可选用以下网络架构
+4. WIFI连接设备数50以上可选用以下网络架构
  - TP-LINK TL-ER6120G 多WAN口千兆企业VPN路由器
  - TP-LINK TL-AC100 无线控制器
  - TP-LINK TL-AP1200C-PoE 1200M 11AC双频无线吸顶式AP
