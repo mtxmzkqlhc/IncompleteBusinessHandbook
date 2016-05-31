@@ -58,3 +58,4 @@
  - TP-LINK TL-AC100 无线控制器
  - TP-LINK TL-AP1200C-PoE 1200M 11AC双频无线吸顶式AP
  - TP-LINK TL-SG1008PE 8口全千兆非网管 PoE交换机
+5. 印制名片时可制作企业名称卡，便于同学们开发票
